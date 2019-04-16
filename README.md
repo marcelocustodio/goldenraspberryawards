@@ -16,7 +16,7 @@ Assumem-se como instalados:
 Assumime-se como pasta raiz do projeto "/var/www/html/goldenraspberryawards"
 
 
-0) Baixa-se o projeto do repositório 
+0) Baixa-se o projeto deste repositório Github e segue-se os passos a seguir para a instalação das dependências e configuração do ambiente
 
 
 1) posiciona-se o arquivo movielist.csv na raiz do projeto
